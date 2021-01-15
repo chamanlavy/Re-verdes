@@ -35,7 +35,7 @@ Como mencionamos anteriormente, la documentación está disponible momentáneame
 - Claudia Parra
 - Marjorie Arroyo
 - Lorena Cornejo
-- Luis CÁrdenas
+- Luis Cárdenas
 
 
 > "no viajamos para escapar de la vida. Viajamos para que la vida no se nos escape" (anónimo)
